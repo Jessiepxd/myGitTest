@@ -10,6 +10,7 @@ package mygittest;
 public class MyGitTest {
     
     /* Date: Feb 1st */
+    /* Weather: sunny */
     
     public int newChange;
 
