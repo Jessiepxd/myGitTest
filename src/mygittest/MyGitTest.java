@@ -8,6 +8,16 @@ package mygittest;
  * @author Jie Chen
  */
 public class MyGitTest {
+    
+    public int newChange;
+
+    public int getNewChange() {
+        return newChange;
+    }
+
+    public void setNewChange(int newChange) {
+        this.newChange = newChange;
+    }
 
     /**
      * @param args the command line arguments
