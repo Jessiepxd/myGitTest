@@ -7,7 +7,7 @@ package mygittest;
  *
  * @author Jie Chen
  */
-public class MyGitTest {
+public class MyGitTest{
     
     /* Date: Feb 1st */
     /* Weather: sunny */
