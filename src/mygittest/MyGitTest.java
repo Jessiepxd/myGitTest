@@ -9,6 +9,8 @@ package mygittest;
  */
 public class MyGitTest {
     
+    /* Date: Feb 1st */
+    
     public int newChange;
 
     public int getNewChange() {
